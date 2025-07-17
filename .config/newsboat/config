@@ -1,0 +1,12 @@
+include /usr/share/doc/newsboat/contrib/colorschemes/inkpot
+
+auto-reload yes
+
+bind-key h quit
+bind-key l open
+bind-key j down
+bind-key k up
+
+browser "xdg-open %u"
+
+reload-threads 100

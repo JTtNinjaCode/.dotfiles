@@ -1,0 +1,12 @@
+[commmit]
+	gpgsign = true
+[user]
+	signingKey = brianhsu
+	email = ffa123654789@gmail.com
+	name = brianhsu
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+[commit]
+	gpgsign = true
