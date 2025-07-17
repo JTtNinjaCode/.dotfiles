@@ -1,7 +1,7 @@
 [commmit]
 	gpgsign = true
 [user]
-	signingKey = brianhsu
+	signingKey = AD227149EDCDE2CCF06BCC04FE19E2304D05F48E
 	email = ffa123654789@gmail.com
 	name = brianhsu
 [init]
