@@ -11,9 +11,3 @@ git clone git@github.com:JTtNinjaCode/.dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 stow .
 ```
-
-If there is a conflict, you can use --adopt to force overwrite.
-
-```bash
-stow --adopt .
-```
