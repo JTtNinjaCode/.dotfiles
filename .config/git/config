@@ -10,3 +10,7 @@
 	editor = nvim
 [commit]
 	gpgsign = true
+[pull]
+	rebase = false
+[tag]
+	gpgSign = true
